@@ -1,6 +1,6 @@
 # Find slots
 
-Using python web-scraping to find 42 school project correction slots.
+Using python web-scraping to find 42 school project correction slots
 
 ### Usage
 
