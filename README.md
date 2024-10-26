@@ -1,4 +1,4 @@
-# Find slots
+# 42-webscraper-slot-finder
 
 Using python web-scraping to find 42 school project correction slots.
 
@@ -27,5 +27,5 @@ Once a slot is found you will be redirected to the slot page.
 
 Slots are in javascript code not in static HTML code. **MechanicalSoup** gives access to **static HTML** code, which is not enough to find the slots. **Selenium** allows crawling the content that has been added through **javascript**. To find slots this is necessary.
 
-### Final functional version using Selenium
-[Artygo8/42SLOT_FINDER](https://github.com/Artygo8/42SLOT_FINDER)
+### Next
+Final functional version using Selenium is found in [Artygo8/42SLOT_FINDER](https://github.com/Artygo8/42SLOT_FINDER) project.
